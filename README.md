@@ -1,4 +1,4 @@
-# projeto-google-glass
+# Projeto Google Glass
  Desenvolvimento de site com HTML, CSS e JavaScript
  
  Aula de HTML e CSS do [Gustavo Guanabara](https://github.com/gustavoguanabara) no [Curso em Video](https://github.com/cursoemvideo).
